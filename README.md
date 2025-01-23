@@ -10,12 +10,7 @@ This Python script allows you to download YouTube videos in high quality, with o
 - Automatically installs ffmpeg if not present (on Debian-based systems)
 - User-friendly Streamlit interface
 
-## Requirements
 
-- Python 3.6+
-- pytubefix
-- ffmpeg (will be automatically installed on Debian-based systems)
-- Streamlit
 
 ## Installation and Running
 
